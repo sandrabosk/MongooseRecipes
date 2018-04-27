@@ -1,7 +1,7 @@
 module.exports =  
     [
       { 
-        title: 'Asian Glazed Chicken Thighs',
+        title: 'Asian Glazed Chicken Thighs1',
         level: 'Amateur Chef',
         ingredients: ['1/2 cup rice vinegar', '5 tablespoons honey', '1/3 cup soy sauce (such as Silver Swan®)', '1/4 cup Asian (toasted) sesame oil', '3 tablespoons Asian chili garlic sauce', '3 tablespoons minced garlic', 'salt to taste', '8 skinless, boneless chicken thighs'],
         cousine: 'Asian',
@@ -11,7 +11,7 @@ module.exports =
         creator: 'Chef LePapu'
       },
       { 
-        title: 'Orange and Milk-Braised Pork Carnitas',
+        title: 'Orange and Milk-Braised Pork Carnitas1',
         level: 'UltraPro Chef',
         ingredients: ['3 1/2 pounds boneless pork shoulder, cut into large pieces', '1 tablespoon freshly ground black pepper', '1 tablespoon kosher salt, or more to taste', '2 tablespoons vegetable oil', '2 bay leaves', '2 teaspoons ground cumin', '1 teaspoon dried oregano', '1/4 teaspoon cayenne pepper', '1 orange, juiced and zested'],
         cousine: 'American',
@@ -21,7 +21,7 @@ module.exports =
         creator: 'Chef John'
       },
       { 
-        title: 'Carrot Cake',
+        title: 'Carrot Cake1',
         level: 'Amateur Chef',
         ingredients: ['6 cups grated carrots', '1 cup brown sugar', '1 cup raisins', '4 eggs', '1 1/2 cups white sugar', '1 cup vegetable oil', '2 teaspoons vanilla extract', '1 cup crushed pineapple, drained', '3 cups all-purpose flour', '1 1/2 teaspoons baking soda', '1 teaspoon salt', '4 teaspoons ground cinnamon'],
         cousine: 'International',
@@ -31,7 +31,7 @@ module.exports =
         creator: 'Chef Nadia'
       },
       { 
-        title: 'Rigatoni alla Genovese',
+        title: 'Rigatoni alla Genovese1',
         level: 'Easy Peasy',
         ingredients: ['2 pounds red onions, sliced salt to taste', '2 (16 ounce) boxes uncooked rigatoni', '1 tablespoon chopped fresh marjoram leaves', '1 pinch cayenne pepper', '2 tablespoons freshly grated Parmigiano-Reggiano cheese'],
         cousine: 'Italian',
@@ -41,7 +41,7 @@ module.exports =
         creator: 'Chef Luigi'
       },
       { 
-        title: 'Chocolate Chip Cookies',
+        title: 'Chocolate Chip Cookies1',
         level: 'Amateur Chef',
         ingredients: ['1/2 cup light brown sugar', '1 large egg', '2 tablespoons milk', '1 1/4 teaspoons vanilla extract', '2 cups semisweet chocolate chips'],
         cousine: 'French',
